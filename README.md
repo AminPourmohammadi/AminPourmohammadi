@@ -26,6 +26,6 @@ Most of my work answers one question: *what should we actually do differently be
 
 ### 📫 Get in touch
 
-[LinkedIn](www.linkedin.com/in/amin-pourmohammadi-9400a656) · [Email](mailto:apourmohammadi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/amin-pourmohammadi-9400a656) · [Email](mailto:apourmohammadi@gmail.com)
 
 Open to data science roles and consulting projects in experimentation, marketing analytics, and fraud.
